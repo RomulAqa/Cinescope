@@ -14,3 +14,4 @@ def test_user_id(create_user):
     assert create_user == 777
 
 print("Проверка работы Git-ветки")
+print("Проверка работы Git-ветки")
